@@ -200,13 +200,21 @@ hr {
 
 @media screen and (max-width: 600px) {
   .balance-sec {
-    width: 375px;
-    margin-left: 50px;
+    width: 345px;
+    margin-left: 20px;
   }
   .second-section {
-    width: 375px;
-    margin-left: 50px;
+    width: 345px;
+    margin-left: 20px;
   }
+ .ratings {
+  
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 40px;
+  margin-left: -20px;
+}
+
   .second-section h2 {
     margin-right: 90px;
   }
@@ -216,7 +224,7 @@ hr {
   }
   hr {
     width: 340px;
-    margin-left: 20px;
+    margin-left: 10px;
   }
   .footer-1 {
     padding-left: 20px;
