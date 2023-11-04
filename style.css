@@ -198,12 +198,11 @@ body {
 }
 
 .hide-f {
-   
   background-color: hsl(25, 47%, 15%);
   color: white;
   padding: 2px 2px 2px 2px;
   border-radius: 2px;
-   visibility: hidden; 
+  visibility: hidden;
 }
 .first-f:hover h5 {
   visibility: visible;
@@ -222,7 +221,7 @@ body {
   cursor: pointer;
 }
 .first-sa h5 {
-  margin-top: -14px; 
+  margin-top: -14px;
 }
 
 .hide-sa {
@@ -231,13 +230,12 @@ body {
   color: white;
   padding: 2px 2px 2px 2px;
   border-radius: 2px;
-    visibility: hidden; 
+  visibility: hidden;
 }
 .first-sa:hover h5 {
   visibility: visible;
   color: white;
 }
-
 
 .sun {
   background-color: hsl(10, 79%, 65%);
@@ -251,7 +249,7 @@ body {
   cursor: pointer;
 }
 .first-s h5 {
-  margin-top: 20px; 
+  margin-top: 20px;
 }
 
 .hide-s {
@@ -260,7 +258,7 @@ body {
   color: white;
   padding: 2px 2px 2px 2px;
   border-radius: 2px;
- visibility: hidden;  
+  visibility: hidden;
 }
 .first-s:hover h5 {
   visibility: visible;
@@ -300,10 +298,8 @@ hr {
   color: hsl(28, 10%, 53%);
 }
 
-
-
-@media screen and (max-width: 1440px){
-.balance-sec {
+@media screen and (max-width: 1440px) {
+  .balance-sec {
     width: 1440;
     margin-left: 450px;
   }
@@ -317,20 +313,19 @@ hr {
     padding-top: 40px;
     margin-left: -20px;
   }
- hr {
+  hr {
     width: 420px;
     margin-left: 30px;
   }
-
 }
-@media screen and (max-width: 1024px){
-.balance-sec {
+@media screen and (max-width: 1024px) {
+  .balance-sec {
     width: 1440;
-    margin-left: 200px;
+    margin-left: 250px;
   }
   .second-section {
     width: 1440pxpx;
-    margin-left: 200px;
+    margin-left: 250px;
   }
   .ratings {
     padding-left: 40px;
@@ -338,16 +333,14 @@ hr {
     padding-top: 40px;
     margin-left: -20px;
   }
- hr {
+  hr {
     width: 420px;
     margin-left: 30px;
   }
-
 }
 
-
-@media screen and (max-width: 768px){
-.balance-sec {
+@media screen and (max-width: 768px) {
+  .balance-sec {
     width: 345px;
     margin-left: 200px;
   }
@@ -379,8 +372,7 @@ hr {
   .footer-2 {
     padding-right: 20px;
   }
-
-} 
+}
 
 @media screen and (max-width: 600px) {
   .balance-sec {
