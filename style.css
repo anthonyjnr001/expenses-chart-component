@@ -377,11 +377,11 @@ hr {
 @media screen and (max-width: 600px) {
   .balance-sec {
     width: 345px;
-    margin-left: 25px;
+    margin:0 auto;
   }
   .second-section {
     width: 345px;
-    margin-left: 25px;
+   margin:0 auto;
   }
   .ratings {
     padding-left: 40px;
