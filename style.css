@@ -300,14 +300,16 @@ hr {
   color: hsl(28, 10%, 53%);
 }
 
+
+
 @media screen and (max-width: 1440px){
 .balance-sec {
     width: 1440;
-    margin-left: 300px;
+    margin-left: 450px;
   }
   .second-section {
     width: 1440pxpx;
-    margin-left: 300px;
+    margin-left: 450px;
   }
   .ratings {
     padding-left: 40px;
@@ -321,6 +323,28 @@ hr {
   }
 
 }
+@media screen and (max-width: 1024px){
+.balance-sec {
+    width: 1440;
+    margin-left: 250px;
+  }
+  .second-section {
+    width: 1440pxpx;
+    margin-left: 250px;
+  }
+  .ratings {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    margin-left: -20px;
+  }
+ hr {
+    width: 420px;
+    margin-left: 30px;
+  }
+
+}
+
 
 @media screen and (max-width: 768px){
 .balance-sec {
