@@ -321,11 +321,11 @@ hr {
 @media screen and (max-width: 1024px) {
   .balance-sec {
     width: 1440;
-    margin:0 auto;
+    margin: auto;
   }
   .second-section {
     width: 1440pxpx;
-    margin:0 auto;
+    margin: auto;
   }
   .ratings {
     padding-left: 40px;
@@ -377,11 +377,11 @@ hr {
 @media screen and (max-width: 600px) {
   .balance-sec {
     width: 345px;
-    margin:0 auto;
+    margin: auto;
   }
   .second-section {
     width: 345px;
-   margin:0 auto;
+   margin: auto;
   }
   .ratings {
     padding-left: 40px;
